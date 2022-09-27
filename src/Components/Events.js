@@ -13,7 +13,7 @@ function Events({field}) {
     <div className='eventContainer'>
     <Card sx={{ maxWidth: 345 }}>
     <img style={{height:'345px'}} src={field.img}/>
-    <h1 style={{color:'blue',paddingLeft:'2%'}}>{field.eventName}</h1>
+    <h1 style={{color:'#240D57',paddingLeft:'2%'}}>{field.eventName}</h1>
     <h4 style={{color:'grey',paddingLeft:'3%'}}>{field.hostName}</h4>
 
     <Accordion>
