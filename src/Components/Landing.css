@@ -1,0 +1,98 @@
+@media only screen 
+  and (min-width: 
+  960px) 
+  and (max-height: 
+  1194px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+    .landingContainer{
+      padding-left: 10%;
+    }
+}
+.landingContainer{
+    text-align: center;
+}
+@media only screen 
+  and (min-width: 
+  960px) 
+  and (max-height: 
+  1194px) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+    .landText{
+      text-align: center;
+    }
+}
+
+@media only screen 
+  and (min-width: 960px) 
+  and (max-height: 1194px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+    .btnContainer{
+    padding-bottom: 33%;
+    };
+}
+
+
+@media only screen 
+  and (min-width: 1512px) 
+  and (max-height: 982px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+   .landingContainer{
+      padding-left: 60%;
+
+    };
+}
+
+@media only screen 
+  and (min-width: 1512px) 
+  and (max-height: 982px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+   .landcontainer{
+      padding-top: 400px
+
+    };
+}
+
+@media only screen 
+  and (min-width: 1512px) 
+  and (max-height: 982px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+   .landCard{
+     margin-top: -20%;
+    };
+}
+
+@media only screen 
+  and (min-width: 1512px) 
+  and (max-height: 982px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+   .landCard{
+     margin-left: -15%;
+    };
+}
+
+@media only screen 
+  and (min-width: 1512px) 
+  and (max-height: 982px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+   .landCard{
+    padding-bottom: 13%;
+    };
+}
+
+
+@media only screen 
+  and (min-width: 1512px) 
+  and (max-height: 982px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+   .landingContainer{
+    text-align: right
+    };
+}
+
